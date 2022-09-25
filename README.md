@@ -4,3 +4,10 @@
  
  # Demo
  [Click Here for Demo](https://2-d-shooting.netlify.app/)
+ 
+ 
+  # Rules
+  ## Lists
+  
+ 
+ 
